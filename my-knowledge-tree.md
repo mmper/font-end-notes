@@ -2,9 +2,9 @@
 ### HTML
 * 常见标签和属性
 * 文档类型
-*  转义字符
-*  网页访问无障碍（只是了解）
-* CSS
+* 转义字符
+* 网页访问无障碍（只是了解）
+### CSS
 * 常用选择器
 * 样式生效规则（浏览器的默认样式，选择器权重的计算，样式的继承综合作用的结果）。
 * 常用样式
@@ -31,7 +31,7 @@
 * CSS组织的方法：BEM 命名法，SMACSS 等
 * Sass，Compass（基于Sass的框架，很强大，但用的越来越少）。
 * PostCSS: 主要用 AutoPrefix。
-* JavaScript
+### JavaScript
 * 基础语法（变量，函数定义，流程等）
 * 数据类型
 * 变量的求值（作用域，变量定义提升，this，原型链等）
@@ -64,7 +64,7 @@
 * Fiddler
 * HTTP （缓存机制，请求头，相应头，浏览器同源策略等）
 * 如何命名
-* 框架
+### 框架
 * 主框架：jQuery， Backbone，Angular 1， Vue。 React(只是了解)。
 * UI 框架：Bootstrap 2，Bootstrap 3。
 * 加载器：Webapck， Requirejs， Seajs。
@@ -73,14 +73,14 @@
 * 依赖管理：npm，Bower (不推荐)。
 * 工作流：Webpack， Gulp.js， Grunt（不推荐。Gulp 比 Grunt效率高）。
 * 生成项目结构脚手架：yo
-* 软件
+### 软件
 * IDE：Sublime(Vim 模式，Emmet)。
 * 代码版本控制： Git， SVN。
 * 切图： Photoshop ，cutterman（一键切图标工具）。
-* 软技能
+### 软技能
 * 沟通（不断学习中）。
 * 团队协作（不断学习中）。
-* 想学的
+### 想学的
 
 * SVG : SVG 可以做很多酷炫的交互。用 SVG 做的一些效果比用图片或 Canvas之类的更有优势。
 * Cycle.js: 写法很优雅的函数式编程的数据流的库。学习用更优雅的方式来管理组件的状态和组件间的通信。
