@@ -1,8 +1,8 @@
 # 我的前端技能
 ### HTML
-* 常见标签和属性
-* 文档类型
-* 转义字符
+* [常见标签和属性](http://www.jianshu.com/p/57cecb7cfc4c)
+* 文档类型(http://www.w3school.com.cn/html/html_doctype.asp)
+* 转义字符(http://baike.baidu.com/link?url=lzUlxYb1PKMyq0iRMpMcFmalKU8jYa3Wg_OfNlwMxr-Abf1HUMhnuCc1YIfoLtJOGjDCEdbL10i0kF7QNk2GaBaCbr9EQGZNToCIuKKnGWNpthR6ic_rPL1VdRjXnmqF)
 * 网页访问无障碍（只是了解）
 ### CSS
 * 常用选择器
