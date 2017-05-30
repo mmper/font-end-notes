@@ -7,16 +7,16 @@
 * [CSS的简介](http://www.jianshu.com/p/0c8a9d59e58e)
 * [CSS常用选择器](http://www.jianshu.com/p/3cd5148fba55)
 * [样式生效规则（浏览器的默认样式，选择器权重的计算，样式的继承综合作用的结果）。](http://www.jianshu.com/p/0bfe4e9dae15)
-* [常用样式]http://www.jianshu.com/p/a78592a938db
+* [常用样式](http://www.jianshu.com/p/a78592a938db)
 * 布局
-* 盒模型
-* 水平，垂直居中
-* 布局技术
-* 相对，绝对和固定定位
-* Float（不推荐。功能弱，还要去浮动）
-* inline-block(兼容旧些的浏览器用)
-* Flex (主流)
-* Grid（和Flex配合，面向未来）(只是了解)
+  * 盒模型
+  * 水平，垂直居中
+  * 布局技术
+  * 相对，绝对和固定定位
+  * Float（不推荐。功能弱，还要去浮动）
+  * inline-block(兼容旧些的浏览器用)
+  * Flex (主流)
+  * Grid（和Flex配合，面向未来）(只是了解)
 * 响应式
 * 媒体查询
 * rem 的使用（配合 JS 动态设置根节点的字体大小更灵活）。
