@@ -97,13 +97,28 @@
 * 依赖管理：npm，Bower (不推荐)。
 * 工作流：Webpack， Gulp.js， Grunt（不推荐。Gulp 比 Grunt效率高）。
 * 生成项目结构脚手架：yo
+### 前段全栈 后台开发
+* Node.js
 ### 软件
 * IDE：Sublime(Vim 模式，Emmet),WebStorm。
 * 代码版本控制： Git， SVN。
 * 切图： Photoshop ，cutterman（一键切图标工具）。
 ### 软技能
-* 沟通（不断学习中）。
-* 团队协作（不断学习中）。
+* 沟通。
+* 团队协作。
 ### 想学的
+* H5更深入
+* php深入
+* 数据库深入
 * SVG : SVG 可以做很多酷炫的交互。用 SVG 做的一些效果比用图片或 Canvas之类的更有优势。
 * Cycle.js: 写法很优雅的函数式编程的数据流的库。学习用更优雅的方式来管理组件的状态和组件间的通信。
+* 熟练掌握 server javascript（node）、webpack的使用；
+* 了解MVC、MVX、MVVM等架构风格，了解不同架构的优缺点；熟练掌握MVVM架构相关工具（vue、react），并看过其中某些库源码；
+* 对前后端分离有深刻认识，并能自主实施；
+* 熟悉设计模式，了解rich client应用（SPA，MPA）的前端代码架构设计；
+* 熟悉服务端相关技术（node方向：网络、数据库、并发）；
+* 熟练掌握nw，electron客户端相关技术；
+* 熟练掌握reactive-native和weex；
+* 对业界前端动向有敏感度，能指导后续前端开发技术选型、代码架构。
+* 良好的JavaScript基础，对prototype，closure等概念有一定程度的了解，对this, call, apply, bind等知识点的熟练应用；
+* 使用过backbone
