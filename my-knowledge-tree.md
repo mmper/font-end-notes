@@ -19,6 +19,7 @@
     * inline-block(兼容旧些的浏览器用)
     * Flex (主流)
     * Grid System(Bootstrap之栅格系统布局)
+### CSS3高级
 * 复杂选择器
 * 效果
   * 过渡和动画
@@ -32,10 +33,12 @@
 * 常见浏览器兼容性问题和解决
 * 提高代码质量&工作效率
 * CSS组织的方法：BEM 命名法，SMACSS 等
-* Sass，Compass（基于Sass的框架，很强大，但用的越来越少）。
-* PostCSS: 主要用 AutoPrefix。
+### CSS预处理语言：
+* Sass，Compass（基于Sass的框架，很强大，但用的越来越少）。（待学习）
+* Less
+* stylus(待学习）
 ### HTML5
-* 语义标签 —— 面试题：写出10+个H5新标签/属性
+* 语义标签
 * 增强型表单
 * 视频和音频
 * Canvas绘图
@@ -45,7 +48,7 @@
 * Web Worker
 * Web Storage
 * WebSocket
-### JavaScript
+### JavaScript基础
 * 基础语法（变量，函数定义，流程等）
 * 数据类型
 * 函数、分支结构
@@ -53,22 +56,8 @@
 * 正则表达式
 * Math
 * Data
+### JavaScript高级
 * 变量的求值（作用域，变量定义提升，this，原型链等）
-* DOM
-  * 核心DOM
-  * 常用HTML DOM对象
-  * DOM 的增删改查
-  * Event对象
-* BOM （浏览器相关信息,浏览记录历史和一些全局API）
-  * 定时器
-* Ajax
-* 客户端存储：Cookie，Web Stroge(Local&Session)，离线缓存。
-* 常见浏览器兼容性问题和解决
-* 提高代码质量&工作效率
-* 严格模式
-* 流程控制：Promise，async/await，Event Bus(事件的发布与订阅)。
-* 管理组件的状态和组件间的通信
-* 单向数据流：Vuex
 * ECMAScript 5 的新特性、ECMAScript 6 的新特性 
 * 错误处理
 * 原型
@@ -77,6 +66,26 @@
 * 匿名函数
 * 重载overload
 * 面向对象
+* Javascript中this,apply、call、bind call（http://www.admin10000.com/document/6711.html）
+
+* DOM
+  * 核心DOM
+  * 常用HTML DOM对象
+  * DOM 的增删改查
+  * Event对象
+* BOM （浏览器相关信息,浏览记录历史和一些全局API）
+  * 定时器
+### 服务器交互
+* [Ajax](http://www.jianshu.com/p/f3cf43c82a8c)
+* 客户端存储：Cookie，Web Stroge(Local&Session)，离线缓存。
+* HTTP （缓存机制，请求头，相应头，浏览器同源策略等）
+* php 
+### 其他
+* 常见浏览器兼容性问题和解决
+* 提高代码质量&工作效率
+* 严格模式
+* 流程控制：Promise，async/await，Event Bus(事件的发布与订阅)。
+* 管理组件的状态和组件间的通信
 * 安全
   * 页面性能优化
   * 页面加载的优化
@@ -85,40 +94,30 @@
 * 浏览器的调试工具
 * 移动端页面调试
 * 在微信中：微信开发者工具
-* 调试线上页面
-* HTTP （缓存机制，请求头，相应头，浏览器同源策略等）
-* 如何命名
 ### 框架
-* 主框架：jQuery,AngularJS,Vue.js,React.js。
+* 主框架/库：jQuery,AngularJS,Vue.js,React.js。
+* 移动端框架/库：Zepto.js,ionic.js
 * UI 框架：Bootstrap
-* 加载器：Webapck， Requirejs， Seajs。
+* 加载器：Webapck， Requirejs。
 * 工具库：UnderScore&Lodash，Moment.js
 * 前端工程化
 * 依赖管理：npm，Bower (不推荐)。
 * 工作流：Webpack， Gulp.js， Grunt（不推荐。Gulp 比 Grunt效率高）。
-* 生成项目结构脚手架：yo
+* [各种优秀的前端插件](https://github.com/mmper/front-end-plugins)
+* 生成项目结构脚手架：yeoman (http://www.cnblogs.com/jarson-7426/archive/2016/09/04/5839243.html)
 ### 前段全栈 后台开发
-* Node.js
+* [Node.js](https://github.com/mmper/node-lessons)
 ### 软件
 * IDE：Sublime(Vim 模式，Emmet),WebStorm。
 * 代码版本控制： Git， SVN。
 * 切图： Photoshop ，cutterman（一键切图标工具）。
+* [Markdown](http://www.jianshu.com/p/q81RER)
 ### 软技能
 * 沟通。
 * 团队协作。
+* 快速学习能力。
 ### 想学的
-* H5更深入
-* php深入
-* 数据库深入
+* H5深入
 * SVG : SVG 可以做很多酷炫的交互。用 SVG 做的一些效果比用图片或 Canvas之类的更有优势。
 * Cycle.js: 写法很优雅的函数式编程的数据流的库。学习用更优雅的方式来管理组件的状态和组件间的通信。
-* 熟练掌握 server javascript（node）、webpack的使用；
-* 了解MVC、MVX、MVVM等架构风格，了解不同架构的优缺点；熟练掌握MVVM架构相关工具（vue、react），并看过其中某些库源码；
-* 对前后端分离有深刻认识，并能自主实施；
-* 熟悉设计模式，了解rich client应用（SPA，MPA）的前端代码架构设计；
-* 熟悉服务端相关技术（node方向：网络、数据库、并发）；
-* 熟练掌握nw，electron客户端相关技术；
-* 熟练掌握reactive-native和weex；
-* 对业界前端动向有敏感度，能指导后续前端开发技术选型、代码架构。
-* 良好的JavaScript基础，对prototype，closure等概念有一定程度的了解，对this, call, apply, bind等知识点的熟练应用；
-* 使用过backbone
+* 还有太多
