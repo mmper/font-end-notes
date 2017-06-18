@@ -35,8 +35,8 @@
 * CSS组织的方法：BEM 命名法，SMACSS 等
 ### CSS预处理语言：
 * Sass，Compass（基于Sass的框架，很强大，但用的越来越少）。（待学习）
-* Less
-* stylus(待学习）
+* [Less](https://www.ibm.com/developerworks/cn/web/1207_zhaoch_lesscss/)
+* stylus
 ### HTML5
 * 语义标签
 * 增强型表单
